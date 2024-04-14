@@ -22,7 +22,11 @@ Para executamos o algorimo pode se usar o [Colab](https://colab.research.google.
 #### Apresentação do algoritimo
 Nesse curto video tento apresentar o comportamento função, sua implementação e sua complexidade
 [![Watch the video](https://i9.ytimg.com/vi/tfXwZ_-J_I0/mqdefault.jpg?sqp=COjm8LAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggXChlMA8=&rs=AOn4CLCVT8pOYld6WPO5OJEhtAbgDYJAIw)](https://youtu.be/tfXwZ_-J_I0)
+
+
 ##### Estrutura do repositório
 README.md: Este arquivo contendo informações sobre o repositório.
+
 challenge_01_closestvalue.ipynb: O arquivo Python que demonstra exemplos de uso dos algoritmos e implemetação da findClosestValue
+
 challenge_02_kth_largest.ipynb: O arquivo Python que demonstra exemplos de uso dos algoritmos e implemetação da findKthLargestValue.
