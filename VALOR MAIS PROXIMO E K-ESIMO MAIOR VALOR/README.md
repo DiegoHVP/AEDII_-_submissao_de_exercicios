@@ -15,8 +15,10 @@ Este algoritmo encontra o k-ésimo maior valor em uma AVL. Ele utiliza um métod
 
 ## Instruções passo a passo para executar a solução
 Para executamos o algorimo pode se usar o [Colab](https://colab.research.google.com/). Ao abrir havera varios blocos de codigos, o que devem ser executados sera os dois primeiros, onde sera implementa a BST e os dois ultimos que serão resposnsaveis pela implementação da função e execução de um algoritomo de teste unitarios, segue abaixo o link para Notebook.
-[Find closest Value in BST](https://colab.research.google.com/github/DiegoHVP/AED-II/blob/main/VALOR%20MAIS%20PROXIMO%20E%20K-ESIMO%20MAIOR%20VALOR/challenge_01_closestvalue.ipynb)
-[Find Kth Largest Value in BST](https://colab.research.google.com/github/DiegoHVP/AED-II/blob/main/VALOR%20MAIS%20PROXIMO%20E%20K-ESIMO%20MAIOR%20VALOR/challenge_02_kth_largest.ipynb)
+
+- [Find closest Value in BST](https://colab.research.google.com/github/DiegoHVP/AED-II/blob/main/VALOR%20MAIS%20PROXIMO%20E%20K-ESIMO%20MAIOR%20VALOR/challenge_01_closestvalue.ipynb)
+
+- [Find Kth Largest Value in BST](https://colab.research.google.com/github/DiegoHVP/AED-II/blob/main/VALOR%20MAIS%20PROXIMO%20E%20K-ESIMO%20MAIOR%20VALOR/challenge_02_kth_largest.ipynb)
 
 
 #### Apresentação do algoritimo
