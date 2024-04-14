@@ -5,7 +5,7 @@ Este repositório contém implementações de algoritmos relacionados a árvores
 Este algoritmo encontra o valor mais próximo de um determinado alvo em uma BST. Ele utiliza um método recursivo chamado 'getValueTree' para percorrer a árvore e atualizar o valor mais próximo conforme necessário.
 
 #### findKthLargestValue
-Este algoritmo encontra o k-ésimo maior valor em uma AVL. Ele utiliza um método recursivo chamado getKesimo que percorre a árvore em ordem reversa para encontrar o k-ésimo maior valor.
+Este algoritmo encontra o k-ésimo maior valor em uma arvore. Ele utiliza um método recursivo chamado getKesimo que percorre em ordem reversa para encontrar o k-ésimo maior valor.
 
 
 ## Complexidade: 
